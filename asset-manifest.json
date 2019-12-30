@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BlackJackRR/static/css/main.d2e546e3.chunk.css",
+    "main.css": "/BlackJackRR/static/css/main.0c15c490.chunk.css",
     "main.js": "/BlackJackRR/static/js/main.92fa0577.chunk.js",
     "main.js.map": "/BlackJackRR/static/js/main.92fa0577.chunk.js.map",
     "runtime-main.js": "/BlackJackRR/static/js/runtime-main.9f948961.js",
@@ -8,16 +8,16 @@
     "static/js/2.0b4c320b.chunk.js": "/BlackJackRR/static/js/2.0b4c320b.chunk.js",
     "static/js/2.0b4c320b.chunk.js.map": "/BlackJackRR/static/js/2.0b4c320b.chunk.js.map",
     "index.html": "/BlackJackRR/index.html",
-    "precache-manifest.d7424194ea27ce7e704d9a4f7cc95599.js": "/BlackJackRR/precache-manifest.d7424194ea27ce7e704d9a4f7cc95599.js",
+    "precache-manifest.f1baead9b8927faa810a286cdb6ae538.js": "/BlackJackRR/precache-manifest.f1baead9b8927faa810a286cdb6ae538.js",
     "service-worker.js": "/BlackJackRR/service-worker.js",
-    "static/css/main.d2e546e3.chunk.css.map": "/BlackJackRR/static/css/main.d2e546e3.chunk.css.map",
+    "static/css/main.0c15c490.chunk.css.map": "/BlackJackRR/static/css/main.0c15c490.chunk.css.map",
     "static/js/2.0b4c320b.chunk.js.LICENSE": "/BlackJackRR/static/js/2.0b4c320b.chunk.js.LICENSE",
     "static/media/bender.png": "/BlackJackRR/static/media/bender.1377219e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9f948961.js",
     "static/js/2.0b4c320b.chunk.js",
-    "static/css/main.d2e546e3.chunk.css",
+    "static/css/main.0c15c490.chunk.css",
     "static/js/main.92fa0577.chunk.js"
   ]
 }
